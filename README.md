@@ -32,7 +32,7 @@ NOTE: You need to have a web browser installed in your computer to be able to op
 ## How to navige through
 
 1. Moving through the page is pretty much easy, buttons and links are self explainatory. One the first page is the Home page, which has information about the store and a navigation bar that links you to the rest of the site.
-![home page](../images/Homepage.jpg)
+![home page]("\images\Homepage.jpg")
 
 2. Catalogue pages gives access to products more information and options to add them to cart.
  ![catalogues page](../images/cataloguePage.jpg)
