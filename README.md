@@ -35,14 +35,14 @@ NOTE: You need to have a web browser installed in your computer to be able to op
 ![home page]("\images\Homepage.jpg")
 
 2. Catalogue pages gives access to products more information and options to add them to cart.
- ![catalogues page](../images/cataloguePage.jpg)
- ![catalogue2](../images/catalogue2.jpg)
+ ![catalogues page]("../images/cataloguePage.jpg")
+ ![catalogue2]("../images/catalogue2.jpg")
 
 3. About Page gives detailed information about products and the brands that they are and also information and the store where it is located and how to contact them.
-![aboutPage](../images/aboutPage.jpg)
+![aboutPage]("../images/aboutPage.jpg")
 
 4. Cart page contains your shopping cart, what you have selected to buy amount and discount offers. Alert pop ups that let you know of how much your total is and a final generated code as reference to your purchase on checkout. It also has options for delivery and self collect options.
-![cart page](../images/cart.jpg)
+![cart page]("../images/cart.jpg")
 
 ## Credits
 
